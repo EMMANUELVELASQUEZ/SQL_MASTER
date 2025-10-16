@@ -36,7 +36,7 @@ Es usado por gigantes como **Google**, **Netflix**, **Amazon** y **Spotify** par
 
 ---
 
-## 📘 Ejemplo práctico
+## 📘 TECNICA SQL
 
 ```sql
 CREATE TABLE usuarios (
