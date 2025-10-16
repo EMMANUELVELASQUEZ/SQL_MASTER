@@ -1,0 +1,17 @@
+ SELECT * , 
+ CASE
+     
+     WHEN AGE > 17 THEN 'ES MAYOR DE EDAD'
+     WHEN AGE = 18 THEN 'ACABO DE CUMPLIR LA MAYORIA DE EDAD'
+     ELSE 'ES MENOR DE EDAD'
+     END AS '¿ES MAYOR DE EDAD?'
+     FROM USERS;
+
+     SELECT*,
+     CASE
+          WHEN AGE > 17 THEN TRUE
+          ELSE FALSE
+     END AS '¿ES MAYOR DE EDAD?'
+     FROM USERS;
+     
+
