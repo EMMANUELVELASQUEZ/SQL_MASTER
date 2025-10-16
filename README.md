@@ -47,6 +47,6 @@ CREATE TABLE usuarios (
 );
 
 INSERT INTO usuarios (nombre, edad, correo)
-VALUES ('Emmanuel', 22, 'emmanuel@ejemplo.com');
+VALUES ('Emaster', 55, 'velasquezemmanuel87@gamil.com');
 
-SELECT nombre, edad FROM usuarios WHERE edad >= 18;
+SELECT nombre, edad FROM usuarios WHERE edad >= 25;
