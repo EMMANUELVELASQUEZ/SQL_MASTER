@@ -1,7 +1,7 @@
 # SQL_MASTER
 SQL es un lenguaje que se utiliza para manejar bases de datos de forma sencilla y eficiente. Permite crear tablas, agregar, modificar y eliminar datos. Me gusta porque es fácil de aprender y muy útil para trabajar con grandes volúmenes de información. Además, es esencial para los programadores y el desarrollo de sistemas modernos.
 
-<h1 align="center">💾 SQL MASTER PROJECT 💻</h1>
+<h1 align="center">💾 SQL MASTER 💻</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Structured_Query_Language-blue?style=for-the-badge&logo=database&logoColor=white" />
